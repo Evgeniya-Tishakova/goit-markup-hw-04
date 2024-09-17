@@ -253,10 +253,6 @@ max-width: 496px;
 .hidden-icon-container {
 width: 264px;
 height: 112px;
-padding-left: 100px; 
-padding-right: 100px;
-padding-top: 24px;
-padding-bottom: 24px;
 margin: 0 auto;
 margin-bottom: 8px;
 border: 1px solid #8e8f99;
@@ -282,8 +278,7 @@ color: #2E2F42;
 margin-bottom: 8px;
 }
 
-.list-item-descr {
-font-weight: 400;
+.hidden-item-descr {
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
